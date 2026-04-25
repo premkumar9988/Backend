@@ -1,4 +1,4 @@
-# Bookstore API
+# Bookstore 
 
 > A production-ready Django REST Framework backend powering the Online Bookstore — handling authentication, book inventory, orders, cart management, and payments.
 
